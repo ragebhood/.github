@@ -1,12 +1,16 @@
-## Hi there 👋
+<p align="center"><img src="https://github.com/ragebhood/.github/assets/81857739/724e8dc4-77e0-4152-9966-e8bf602a3cd1" /><img src="https://github.com/ragebhood/.github/assets/81857739/01d3ea43-c95d-461c-9886-3f6bde4140ac"/></p>
+<p align="center"><strong>Official GitHub organization of the RAGE B-Hood Community.</strong></p>
 
-<!--
+<p align="center">
+   <a href="https://www.instagram.com/rage.bhood/" target="_blank">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="50" align="center">
+   </a>
 
-**Here are some ideas to get you started:**
+  <a href="https://www.youtube.com/@ragebhood" target="_blank">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="50" align="center">
+   </a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+   <a href="https://discord.gg/rageb" target="_blank">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="50" align="center">
+   </a>
+</p>
